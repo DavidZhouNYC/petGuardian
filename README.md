@@ -60,4 +60,4 @@ petGuardian is a made up company and is a leading pet insurance company in the i
 ## 🚀 Quick start (Gatsby Cloud)
 
 This website is also deployed on Gatsby Cloud. The live version of this website can be accessed here:
-(https://petguardianmaster.gatsbyjs.io/)
+(https://petguardian.gatsbyjs.io)
