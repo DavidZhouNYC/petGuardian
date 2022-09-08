@@ -33,7 +33,7 @@ petGuardian is a made up company and is a leading pet insurance company in the i
     Navigate into your new site’s directory and start it up.
 
     ```shell
-    cd pet-guardian/
+    cd petGuardian/
     gatsby develop
     ```
 
