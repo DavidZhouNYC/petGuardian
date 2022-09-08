@@ -146,7 +146,7 @@ const PetForm: FC = () => {
 						<Grid item xs={12}>
 							<FormControl>
 								<FormLabel id='animal-input'>
-									Pet Type:
+									Pet:
 								</FormLabel>
 								<RadioGroup
 									aria-labelledby='animal-radio-group'
