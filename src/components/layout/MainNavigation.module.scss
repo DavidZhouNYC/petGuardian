@@ -1,0 +1,39 @@
+.mainNavigation {
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+
+	header {
+		background-color: #bdd3ef;
+		padding: 20px 20px;
+	}
+
+	main {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		flex-grow: 1;
+	}
+
+	footer {
+		background-color: rgba($color: #ffffff, $alpha: 0.9);
+
+		p {
+			text-align: center;
+			font-size: 0.8rem;
+			font-weight: 100;
+			letter-spacing: 0.1rem;
+		}
+	}
+}
+
+.backgroundImage {
+	width: 100vw;
+	height: 100vh;
+	position: absolute;
+	object-fit: cover;
+	top: 0;
+	left: 0;
+	z-index: -1;
+	overflow: hidden;
+}
