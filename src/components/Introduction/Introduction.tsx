@@ -17,7 +17,7 @@ const Introduction: FC = () => {
 					of America choose{" "}
 					<b>petGuardian as their #1 choice of pet insurance</b>.
 					Whether you&apos;re a dog or cat owner - we're dedicated to
-					ensuring your pet(s) gets the love and care they deserves.
+					ensuring your pet(s) gets the love and care they deserve.
 				</p>
 				<PetForm />
 			</article>
